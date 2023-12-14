@@ -2,4 +2,4 @@
 
 DATE=$(date)
 
-echo"$DATE"
+echo"Printing today's date and current system time: ${DATE}"
