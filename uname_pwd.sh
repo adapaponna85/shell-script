@@ -13,4 +13,4 @@ echo "Enter the password"
 
 read -s pwd
 
-echo "password entered is: $read"
+echo "password entered is: $pwd"
