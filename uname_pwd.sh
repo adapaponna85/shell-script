@@ -1,8 +1,5 @@
 #! /bin/bash
 
-uname:$1
-pwd:$2
-
 echo "Enter the user name"
 
 read -s uname
