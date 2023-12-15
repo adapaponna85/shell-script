@@ -3,9 +3,13 @@
 uname:$1
 pwd:$2
 
-read uname
+echo "Enter the user name"
+
+read -s uname
 
 echo "user name entered is"
+
+echo "Enter the password"
 
 read -s pwd
 
